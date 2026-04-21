@@ -1,4 +1,4 @@
-# SubHub<h1 align="center">Hi 👋, I'm Subhana👋🏻A passionate student learning coding and building my future in tech</h1>
+Hi 👋, I'm Subhana👋🏻A passionate student learning coding and building my future in tech</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhub&label=Profile%20views&color=0e75b6&style=flat" alt="subhub" /> </p>
